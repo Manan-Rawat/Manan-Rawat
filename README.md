@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Rawat</h1>
-<h3 align="center">A 4th year Integrated MSc. Mathematics Student at UM-DAE CEBS.</h3>
+<h3 align="center">A 5th year Integrated MSc. Mathematics Student at UM-DAE CEBS.</h3>
 
 - 🔭 I’m currently working on **Financial Mathematics, Stochastic Calculus.**
 
