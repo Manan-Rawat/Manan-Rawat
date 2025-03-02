@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manan Rawat</h1>
 <h3 align="center">A 5th year Integrated MSc. Mathematics Student at UM-DAE CEBS.</h3>
 
-- 🔭 I’m currently working on **Financial Mathematics, Stochastic Calculus.**
+- 🔭 I’m currently working on **Quantitative Strategies** and **Stochastic Calculus **.
 
-- 🔭 I have worked on **Stochastic Processes, Regression.**
+- 🔭 I have worked on **Statistical Arbitrage, Non-Parameteric Estimation, Martingales, Risk-Neutral Pricing, Term-Structure derivative pricing, Stochastic Processes** and **Regression Analysis .**
 
-- 🌱 I’m currently learning **Machine Learning,Markov Chains.**
+- 🌱 I’m currently learning **Extreme Value Theory.**
 
 - 👨‍💻 All of my numerical methods and linear regression programs [https://drive.google.com/drive/folders/15DCH_S2anWE674-_lBfJ_npb0Puop1p3?usp=sharing](https://drive.google.com/drive/folders/15DCH_S2anWE674-_lBfJ_npb0Puop1p3?usp=sharing).
 
-- 📫 How to reach me **manan.rawat@cbs.ac.in.**
+- 📫 How to reach me **mananrawat01@gmail.com.**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Z8N-CnmPe9pBynPn2tC2Xcghvy1GKgos?usp=sharing](https://drive.google.com/drive/folders/1Z8N-CnmPe9pBynPn2tC2Xcghvy1GKgos?usp=sharing).
 
