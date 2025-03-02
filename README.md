@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan Rawat</h1>
 <h3 align="center">A 5th year Integrated MSc. Mathematics Student at UM-DAE CEBS.</h3>
 
-- 🔭 I’m currently working on **Quantitative Strategies** and **Stochastic Calculus **.
+- 🔭 I’m currently working on **Quantitative Strategies** and **Stochastic Calculus**.
 
 - 🔭 I have worked on **Statistical Arbitrage, Non-Parameteric Estimation, Martingales, Risk-Neutral Pricing, Term-Structure derivative pricing, Stochastic Processes** and **Regression Analysis .**
 
